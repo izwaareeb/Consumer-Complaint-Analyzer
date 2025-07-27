@@ -1,15 +1,5 @@
 Live link: https://huggingface.co/spaces/MujiburrRahman/consumer-complaint-classifier
 
----
-title: Consumer Complaint Classifier
-emoji: 🧠
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 5.38.2
-app_file: app.py
-pinned: false
----
 
 # 🧠 Consumer Complaint Classifier
 
